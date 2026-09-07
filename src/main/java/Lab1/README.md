@@ -5,4 +5,4 @@ This is my first lab in COMP3111 - Software engineering
 
 Here is the screenshot of my 1st lab project in IntelliJ.
 
-![App screenshot](docs/images/screenshot.png)
+![App screenshot](../../../../docs/images/screenshot.png)
